@@ -1,4 +1,4 @@
-# stock-data-dashboard
+# Stock-Data-Dashboard
 Mini Practice Project for Beginners 
 
 # 📊 Extracting and Visualizing Stock Data (Tesla & GameStop)
